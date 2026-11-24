@@ -1,0 +1,129 @@
+﻿Page,Content
+1,"                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+        1. What  is HTML?                                                         
+                                                                                  
+                                                                                  
+        HTML (HyperText Markup Language) is the standard language used to create and
+        structure content on the web. It's not a programming language — it's a markup
+        language that uses tags to describe the structure and meaning of content (headings,
+                                                                                  
+        paragraphs, links, images, etc.) so browsers know how to display it.      
+                                                                                  
+                                                                                  
+                                                                                  
+        2. What  is a tag?                                                        
+                                                                                  
+                                                                                  
+        A tag is a keyword enclosed in angle brackets that tells the browser how to interpret
+                                                                                  
+        content. Tags usually come in pairs:                                      
+                                                                                  
+        •Opening tag: <p>                                                         
+        •Closing tag: </p> (has a forward slash)                                  
+                                                                                  
+        3. Tag vs Element                                                         
+                                                                                  
+        Aspect       Tag                      Element                             
+                                                                                  
+                     The markup keyword enclosed in The complete unit: opening tag +
+        Definition                                                                
+                     angle brackets           content + closing tag               
+                                                                                  
+        Example      <p> and </p>             <p>Hello</p>                        
+                                                                                  
+        Contains                              Yes — includes the content between  
+                     No — just the markup itself                                  
+        content?                              tags                                
+        Count                                                                     
+                     2 tags (one opening, one closing) 1 element                  
+        in <p>Hello</p>                                                           
+        Void tags    <img>, <br>, <input> (no closing tag)Same as the tag (no content)
+                                                                                  
+        Attributes   Held on the tag, e.g. <a href=""...""> Part of the element     
+                                                                                  
+                                                                                  
+        4. <head> vs <body>                                                       
+                                                                                  
+        Aspect         <head>                   <body>                            
+                                                                                  
+        Visibility     ❌  Not visible to the user ✅ Visible to the user           
+                                                                                  
+                       Metadata and setup about the                               
+        Purpose                                 The actual rendered content       
+                       page                                                       
+                       <title>, <meta>, <link>, <style>, <script                  
+        Typical contents                        <h1>, <p>, <img>, <a>, <div>, <form>
+                       >                                                          
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  "
+2,"                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+        Aspect         <head>                   <body>                            
+                                                                                  
+                       First child of <html> (comes before Second child of <html> (comes after
+        Position in HTML                                                          
+                       body)                    head)                             
+        Shown in browser                                                          
+                       Yes — <title> sets the tab name No                         
+        tab?                                                                      
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  "
